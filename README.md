@@ -1,4 +1,4 @@
-# MyLoc
+# LocationBook
 
 ## References 
 
